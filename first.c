@@ -70,5 +70,5 @@ int main(int argc,char *argv[] )
 	addToList(4,&l);
 	addToList(10,&l)*/;
 	printList(l);
-	printf("\ncount -  %d\n",l->count);
+	printf("\ncountyourefaggot -  %d\n",l->count);
 }
